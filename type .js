@@ -33,3 +33,10 @@ let x2 = undefined;
 
 let y1 = str3 - num2;
 let y2 = Number(str3) + num2;
+
+let y3 = str3 + num2;
+let y4 = String(num2);
+
+let y5 = BigInt(num2);
+
+let y6 = Boolean(num1);
